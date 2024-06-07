@@ -37,7 +37,7 @@ while True:
     FSUB_TOTAL += 1
 
 BUTTON_ROW = int(environ.get("BUTTON_ROW", "3"))
-BUTTON_TITLE = environ.get("BUTTON_TITLE", "Join")
+BUTTON_TITLE = environ.get("BUTTON_TITLE", "𝗝𝗢𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟/𝗚𝗥𝗢𝗨𝗣")
 
 
 START_MESSAGE = environ.get(
